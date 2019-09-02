@@ -1,0 +1,19 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2019-09-02
+##
+
+## Poland
+Server = http://ftp.vectranet.pl/archlinux/$repo/os/$arch
+## Poland
+Server = http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch
+## Poland
+Server = https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/$repo/os/$arch
+## Poland
+Server = http://arch.midov.pl/arch/$repo/os/$arch
+## Poland
+Server = http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
+## Poland
+Server = http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
+
